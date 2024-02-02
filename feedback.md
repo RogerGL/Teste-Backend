@@ -4,34 +4,34 @@ Esse documento visa coletar feedbacks sobre o teste de desenvolvimento. Desde o 
 ## Antes de Iniciar o Teste
 
 1 - Fale sobre suas primeiras impressões do Teste:
-> Resposta
+> Teste bem aplicado com descrição bem feita
 
 2 - Tempo estimado para o teste:
-> Resposta
+> 1 dia
 
 3 - Qual parte você no momento considera mais difícil?
-> Resposta
+> Estatísticas de Acesso
 
 4 - Qual parte você no momento considera que levará mais tempo?
-> Resposta
+> Estatísticas de Acesso
 
 5 - Por onde você pretende começar?
-> Resposta
+> Criação de rotas e migrations
 
 
 ## Após o Teste
 
 1 - O que você achou do teste?
-> Resposta
+> Teste bem aplicado com descrição bem feita e direcionamento para resolução, um card bem descrito
 
 2 - Levou mais ou menos tempo do que você esperava?
-> Resposta
+> Menos
 
 3 - Teve imprevistos? Quais?
-> Resposta
+> Com a questão das respostas das URLS
 
 4 - Existem pontos que você gostaria de ter melhorado?
-> Resposta
+>  A abstração do código
 
 5 - Quais falhas você encontrou na estrutura do projeto?
-> Resposta
+> Nenhuma aparente
